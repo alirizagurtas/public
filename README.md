@@ -56,7 +56,7 @@ Script, yapılandırmanıza göre şu adımları izler:
 1.  Bu depoyu bilgisayarınıza klonlayın veya script dosyasını (\`.ps1\`) indirin.
 
     ```bash
-    git clone https://github.com/alirizagurtas/ps-filtered-project-archiver.git
+    git clone https://github.com/alirizagurtas/PowerShell-Project-Backup-Archiver.git
     ```
     (Yukarıdaki URL'yi kendi GitHub kullanıcı adınız ve repo adınız ile değiştirin)
 
