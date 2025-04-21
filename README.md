@@ -1,4 +1,4 @@
-# PS-Filtered-Project-Archiver
+# powershell-project-backup-archiver
 ## 📂 Tarih Damgalı PowerShell Proje Yedekleme Scripti
 
 Yazılım projelerinizi yedeklerken `node_modules`, `.git`,  
@@ -6,7 +6,7 @@ build çıktıları, cache dosyaları gibi gereksiz ve yer kaplayan klasörleri
 veya `.log`, `.tmp`, `.obj` gibi dosyaları da yedeklemekten bıktınız mı?  
 Bulut depolama (Google Drive, OneDrive vb.) alanınız bu şişkin yedekler yüzünden doluyor mu?
 
-**PS-Filtered-Project-Archiver**, bu sorunları çözmek için tasarlanmış  
+**powershell-project-backup-archiver**, bu sorunları çözmek için tasarlanmış  
 basit ama etkili bir PowerShell scriptidir. Belirlediğiniz proje klasörlerini,  
 tanımladığınız hariç tutma listesine göre filtreleyerek,  
 temiz ve sıkıştırılmış (ZIP) arşivler halinde,  
