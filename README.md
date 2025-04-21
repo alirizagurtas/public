@@ -1,5 +1,5 @@
 # PS-Filtered-Project-Archiver
-## Tarih Damgalı PowerShell Proje Yedekleme Scripti 📂
+## 📂 Tarih Damgalı PowerShell Proje Yedekleme Scripti
 
 Yazılım projelerinizi yedeklerken `node_modules`, `.git`,  
 build çıktıları, cache dosyaları gibi gereksiz ve yer kaplayan klasörleri  
