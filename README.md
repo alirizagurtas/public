@@ -56,7 +56,7 @@ Script, yapılandırmanıza göre şu adımları izler:
 1.  Bu depoyu bilgisayarınıza klonlayın veya script dosyasını (\`.ps1\`) indirin.
 
     ```bash
-    git clone https://github.com/KullaniciAdiniz/ps-filtered-project-archiver.git
+    git clone https://github.com/alirizagurtas/ps-filtered-project-archiver.git
     ```
     (Yukarıdaki URL'yi kendi GitHub kullanıcı adınız ve repo adınız ile değiştirin)
 
@@ -75,7 +75,7 @@ param(
         "D:\Another\ProjectFolder"   # <-- Yedeklenecek 2. proje klasörü
         # Virgülle ayırarak istediğiniz kadar klasör ekleyebilirsiniz
     ),
-    [string]$DestinationRoot = "C:\Users\KullaniciAdi\YourGoogleDriveFolder\ProjectBackups",  # <-- ZIP dosyalarının kaydedileceği klasör
+    [string]$DestinationRoot = "C:\Users\KullaniciAdi\GoogleDriveKlasorunuz\ProjectBackups",  # <-- ZIP dosyalarının kaydedileceği klasör
     [string[]]$ExcludeFolders = @(
         # Varsayılan hariç tutulacak klasörler... Bu listeyi düzenleyebilirsiniz.
         "node_modules",
