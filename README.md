@@ -1,6 +1,4 @@
 # PS-Filtered-Project-Archiver
-
-## 🗑️ Gereksiz Dosyalardan Arındırılmış,  
 ## Tarih Damgalı PowerShell Proje Yedekleme Scripti 📂
 
 Yazılım projelerinizi yedeklerken `node_modules`, `.git`,  
