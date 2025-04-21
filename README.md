@@ -147,7 +147,7 @@ Based on your configuration, the script follows these steps:
 1.  Clone this repository to your computer or download the script file (`.ps1`).
 
     ```bash
-    https://github.com/your-github-username/powershell-project-backup-archiver.git
+    https://github.com/alirizagurtas/powershell-project-backup-archiver.git
     ```
     (Replace the URL above with your own GitHub username and repo name)
 
