@@ -1,6 +1,6 @@
 <!-- Türkçe -->
 ## 🇹🇷 Türkçe
-# powershell-project-backup-archiver
+# google-drive-backup-script
 ## 📂 Tarih Damgalı PowerShell Proje Yedekleme Scripti
 
 Yazılım projelerinizi yedeklerken `node_modules`, `.git`,  
@@ -8,7 +8,7 @@ build çıktıları, cache dosyaları gibi gereksiz ve yer kaplayan klasörleri
 veya `.log`, `.tmp`, `.obj` gibi dosyaları da yedeklemekten bıktınız mı?  
 Bulut depolama (Google Drive, OneDrive vb.) alanınız bu şişkin yedekler yüzünden doluyor mu?
 
-**powershell-project-backup-archiver**, bu sorunları çözmek için tasarlanmış  
+**google-drive-backup-script**, bu sorunları çözmek için tasarlanmış  
 basit ama etkili bir PowerShell scriptidir. Belirlediğiniz proje klasörlerini,  
 tanımladığınız hariç tutma listesine göre filtreleyerek,  
 temiz ve sıkıştırılmış (ZIP) arşivler halinde,  
@@ -94,7 +94,7 @@ param(
 <!-- English -->
 ## 🇬🇧 English
 
-# powershell-project-backup-archiver
+# google-drive-backup-script
 ## 📂 Date-Stamped PowerShell Project Backup Script
 
 Are you tired of backing up unnecessary and space-consuming folders like `node_modules`, `.git`,
@@ -102,7 +102,7 @@ build outputs, and cache files, or files like `.log`, `.tmp`, and `.obj`,
 when backing up your software projects?
 Is your cloud storage (Google Drive, OneDrive, etc.) filling up because of these bloated backups?
 
-**powershell-project-backup-archiver** is a simple yet effective PowerShell script designed
+**google-drive-backup-script** is a simple yet effective PowerShell script designed
 to solve these problems. It backs up your specified project folders by filtering them
 according to a defined exclusion list, creating clean and compressed (ZIP) archives
 as separate date-stamped files for each run.
